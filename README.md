@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with over 3 years of ex
 - 🔭 I’m currently working on @the-zen
 - 🌱 I’m currently learning Rust
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love my dog
+- ⚡ Fun fact: I love my dog Bobby
 
 ## About Me
 
