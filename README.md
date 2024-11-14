@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with over 3 years of experience in the technology industry. Originally from Chihuahua, Mexico, I love exploring new technologies and contributing to the world of software development, particularly blockchain.
 
-- 🔭 I’m currently working on @the-zen
+- 🔭 I’m currently working on Zephyrus
 - 🌱 I’m currently learning Rust
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love my dog Bobby
