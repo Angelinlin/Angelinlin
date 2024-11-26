@@ -36,11 +36,9 @@ Brief description of another key project showcasing your versatility.
 
 ## 📊 GitHub Stats  
 
-
-| ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelinlin&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/ username=Angelinlin&layout=compact&theme=radical) |
+| ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelinlin&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelinlin&layout=compact&theme=radical) |
 |-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 
----
 ---
 
 ## 🤝 Let's Connect  
