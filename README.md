@@ -1,25 +1,54 @@
-# Hi, I'm Angel Cervantes ✨
+# 👋 Hi, I'm Angel Cervantes ✨  
 
-Welcome to my GitHub profile! I'm a passionate developer with over 3 years of experience in the technology industry. Originally from Chihuahua, Mexico, I love exploring new technologies and contributing to the world of software development, particularly blockchain.
+Welcome to my GitHub profile!  
+I'm a passionate **developer** with over **3 years** of experience in the tech industry, originally from **Chihuahua, Mexico** 🇲🇽. I specialize in **blockchain development** and love exploring emerging technologies.  
 
-- 🔭 I’m currently working on Zephyrus
-- 🌱 I’m currently learning Rust
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love my dog Bobby
+---
 
-## About Me
+## 🚀 What I'm Working On
+- 🔭 **Currently Building**: [Zephyrus](#)  
+- 🌱 **Currently Learning**: Rust 🦀  
+- ⚡ **Fun Fact**: I adore my dog, Bobby 🐶  
 
-With a strong background in web development and extensive experience in various technologies, I consider myself a versatile and passionate developer. My journey includes mastering frameworks like Next.js, React, and Vue.js, as well as creating mobile applications with Flutter and Dart. Additionally, I'm familiar with backend development using Node.js, Laravel, and AWS, and I'm focused on smart contract development and blockchain services.
+---
 
-## Collaboration and Projects
+## 🧑‍💻 About Me  
 
-I'm always open to teamwork and participating in interesting projects. If you have an idea or project where you think I can contribute, feel free to contact me! I love working in collaborative environments and learning from other developers.
+I have a solid background in **web and mobile development**, with expertise in:  
+- 🌐 **Frontend**: Next.js, React, Vue.js  
+- 📱 **Mobile**: Flutter, Dart  
+- ⚙️ **Backend**: Node.js, Laravel, AWS  
+- 🔗 **Blockchain**: Smart contract development & blockchain services  
 
-## Let's Connect!
+I thrive in **collaborative environments**, enjoy contributing to open-source projects, and love turning ideas into reality. If you have an exciting project, let's connect!
 
-If you want to learn more about me, discuss potential projects, or simply network, I'd be happy to chat with you!
+---
 
-- LinkedIn: [Angel Esteban Cervantes](https://www.linkedin.com/in/angel-esteban-cervantes-464087280/)
-- Twitter: [@sir420solsol](https://twitter.com/sir420solsol)
+## 📂 Featured Projects  
 
-## Let's Build Together!
+### 🏗️ [Zephyrus](#)  
+Blockchain-based project revolutionizing [something unique about it].  
+
+### 🎨 [YourProjectName](#)  
+Brief description of another key project showcasing your versatility.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelinlin&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelinlin&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect  
+
+I'm always open to networking, collaborations, or just chatting about tech!  
+- 💼 [LinkedIn: Angel Esteban Cervantes](https://www.linkedin.com/in/angel-esteban-cervantes-464087280/)  
+- 🐦 [Twitter: @sir420solsol](https://twitter.com/sir420solsol)  
+- 🌐 [Portfolio: Coming Soon!](#)  
+
+---
+
+## 🌟 Let's Build the Future, Together!  
+*"Technology is best when it brings people together."*  
