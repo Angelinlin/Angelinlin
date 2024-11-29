@@ -29,9 +29,6 @@ I thrive in **collaborative environments**, enjoy contributing to open-source pr
 ### 🏗️ [Zephyrus](#)  
 Blockchain-based project revolutionizing [something unique about it].  
 
-### 🎨 [YourProjectName](#)  
-Brief description of another key project showcasing your versatility.  
-
 ---
 
 ## 📊 GitHub Stats  
