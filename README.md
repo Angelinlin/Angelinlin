@@ -24,13 +24,6 @@ I thrive in **collaborative environments**, enjoy contributing to open-source pr
 
 ---
 
-## 📂 Featured Projects  
-
-### 🏗️ [Zephyrus](#)  
-Blockchain-based project revolutionizing [something unique about it].  
-
----
-
 ## 📊 GitHub Stats  
 
 | ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelinlin&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelinlin&layout=compact&theme=radical) |
