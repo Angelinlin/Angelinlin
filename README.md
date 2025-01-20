@@ -22,15 +22,6 @@ I have a solid background in **web and mobile development**, with expertise in:
 
 I thrive in **collaborative environments**, enjoy contributing to open-source projects, and love turning ideas into reality. If you have an exciting project, let's connect!
 
----
-
-## 📊 GitHub Stats  
-
-| ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelinlin&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelinlin&layout=compact&theme=radical) |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-
----
-
 ## 🤝 Let's Connect  
 
 I'm always open to networking, collaborations, or just chatting about tech!  
