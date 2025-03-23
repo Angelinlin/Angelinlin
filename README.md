@@ -6,7 +6,7 @@ I'm a passionate **developer** with over **3 years** of experience in the tech i
 ---
 
 ## 🚀 What I'm Working On
-- 🔭 **Currently Building**: [Zephyrus](#)  
+- 🔭 **Currently Building**: [BlockiesUI](https://blockiesui.com/en/)  
 - 🌱 **Currently Learning**: Rust 🦀  
 - ⚡ **Fun Fact**: I adore my dog, Bobby 🐶  
 
