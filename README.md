@@ -15,10 +15,10 @@ I'm a passionate **developer** with over **4 years** of experience in the tech i
 ## 🧑‍💻 About Me  
 
 I have a solid background in **web and mobile development**, with expertise in:  
-- 🌐 **Frontend**: Next.js, React
-- 📱 **Mobile**: Flutter, Dart, Expo
-- ⚙️ **Backend**: Node.js, Laravel, AWS 
-- 🔗 **Blockchain**: Smart contract development & blockchain services  
+- 🌐 **Frontend**: Framer motion, CSS, TailwindCSS & GSAP...
+- 📱 **Mobile**: Flutter, Expo...
+- ⚙️ **Backend**: Node.js, Laravel, AWS , TRPc...
+- 🔗 **Blockchain**: Smart contract development & blockchain services, RUST & SOLIDITY  
 
 I thrive in **collaborative environments**, enjoy contributing to open-source projects, and love turning ideas into reality. If you have an exciting project, let's connect!
 
