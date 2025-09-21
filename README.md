@@ -27,7 +27,6 @@ I thrive in **collaborative environments**, enjoy contributing to open-source pr
 I'm always open to networking, collaborations, or just chatting about tech!  
 - 💼 [LinkedIn: Angel Esteban Cervantes](https://www.linkedin.com/in/angel-esteban-cervantes-464087280/)  
 - 🐦 [Twitter: @sir420solsol](https://twitter.com/sir420solsol)  
-- 🌐 [Portfolio: web3.0](https://www.sir420.com/)
 - 🪐 [Portfolio: web2.0](https://angel-portfolio-zeta.vercel.app/)
 
 ---
